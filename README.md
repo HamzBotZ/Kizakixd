@@ -35,4 +35,4 @@
  $ git push heroku master
  
   //━━━━━━━━━━━━━━━[ ɴᴏᴛᴇ ]━━━━━━━━━━━━━━━\\
- NOTE : Script No Enc Silahkan Ke Owner, Ada Dua Tipe Script, Script Ini Dan Pribadi Owner, Ada Kualitas Ada Harga.
+ NOTE : Script No Enc Silahkan Ke Owner, Ada Dua Tipe Script, Script Ini Dan Pribadi Owner, Ada Kualitas Ada Harga.# Kizakixd
