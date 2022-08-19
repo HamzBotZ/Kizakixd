@@ -1,7 +1,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.thum = fs.readFileSync("./media/zaki.jpg")
+global.thum = fs.readFileSync("./media/Zaki.jpg")
 
 global.autoReadAll = true 
 
@@ -10,36 +10,36 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285878313791']
-global.pengguna = 'KiZakiXD'
+global.owner = ['6288214989352']
+global.pengguna = 'Hamz'
 global.premium = []
-global.author = 'KiZakiXD'
-global.pemilik = ['6285878313791'] 
-global.ownernomer = '6285878313791'
-global.ownername = 'KiZakiXD'
-global.botname = 'Chitanda - MD'
+global.author = 'Hamz'
+global.pemilik = ['6288214989352'] 
+global.ownernomer = '6288214989352'
+global.ownername = 'Hamzz'
+global.botname = 'ZxynnBotz'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6285878313791'
-global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
+global.meki = '6288214989352'
+global.footer = 'Z x y n n B o t z'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
-global.footer1 = 'Jangan Spam Bot.'
+global.namalu = 'IlhamGanteng' //Ubah nama kalian buat nambahin di tqtq bot
+global.footer1 = 'Gwsa Spam anj.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/iamkizakixd'
-global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
-global.dana = '00000'
+global.yt = 'https://www.youtube.com/c/Hamz9999+' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.ig = 'https://instagram.com/hamzz_jr'
+global.gc = 'https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
+global.dana = '088214989352'
 global.gopay = '0000'
-global.wame = 'wa.me/6285878313791'
-global.email = 'helloiamkizakixd@gmail.com'
+global.wame = 'wa.me/6288214989352'
+global.email = 'zxynnbotz@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
-global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
+global.sc = 'https://XNXX.com'
+global.packname = '"{\nAuthor: IlhamGanz"\n"Bot Number: 79203890637"\n"Bot Name: ZxynnBotz"\n"Instagram: @hamzz_jr"\n}' 
 global.author = '' 
 global.sessionName = 'session'
-global.prefa = ['#','!','/','']
+global.prefa = ['','#','!','/','']
 global.sp = '❑ ' 
 global.mess = {
     success: 'Done Your Request',
@@ -71,7 +71,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./media/zaki.jpg')
+global.thumb = fs.readFileSync('./media/Zaki.jpg')
 global.fakeImg = fs.readFileSync('./media/fake.jpg')
 
 //Ambil dr chika
